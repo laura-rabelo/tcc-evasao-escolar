@@ -27,10 +27,14 @@ Desenvolver modelos preditivos de Inteligência Artificial para estimar a taxa d
 ---
 
 ## Estrutura do Repositório
+
+```
 evasao-escolar-ml/
 ├── Trabalho_Final.ipynb         # Notebook com todo o processo do TCC
 ├── TCC EXEL.csv                 # Base de dados consolidada (INEP 2013–2023)
 └── README.md                    # Este arquivo
+```
+
 
 
 
